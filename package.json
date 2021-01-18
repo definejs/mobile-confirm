@@ -1,6 +1,6 @@
 {
   "name": "@definejs/mobile-confirm",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,7 +13,7 @@
     "url": "https://github.com/definejs/mobile-confirm.git"
   },
   "dependencies": {
-    "@definejs/confirm": "^0.1.3",
-    "@definejs/mobile-dialog": "^0.1.1"
+    "@definejs/confirm": "^1.0.0",
+    "@definejs/mobile-dialog": "^1.0.0"
   }
 }
